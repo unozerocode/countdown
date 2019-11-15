@@ -1,6 +1,6 @@
 # Countdown
 
-![](https://github.com/unozerocode/countdown/workflows/Elixir%20CI/badge.svg)
+[![GitHubCI](https://github.com/unozerocode/countdown/workflows/Elixir%20CI/badge.svg)](https://github.com/unozerocode/countdown/actions?query=workflow%3A%22Elixir+CI%22)
 
 To start your Phoenix server:
 
