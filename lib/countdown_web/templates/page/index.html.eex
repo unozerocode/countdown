@@ -3,6 +3,12 @@
   <p>A productive web framework that<br/>does not compromise speed and maintainability.</p>
 </section>
 
+  <ul>
+  <%= for event <- @events do %>
+    <li><%= event.title %>, <%= event.due %></li>
+  <% end %>
+  </ul>
+
 <section class="row">
   <article class="column">
     <h2>Resources</h2>
