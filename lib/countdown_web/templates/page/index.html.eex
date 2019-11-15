@@ -1,3 +1,4 @@
+[<:F41BBB7A9940C3967F98E2B69C37A15E:>]
 <%= for event <- @events do %>
     <div class="jumbotron">
       <span class="h1">Days until <%= event.title %></span>
