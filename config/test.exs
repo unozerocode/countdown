@@ -14,5 +14,5 @@ config :countdown, Countdown.Repo,
   username: "postgres",
   password: "postgres",
   database: "countdown_test",
-  hostname: "localhost",
+  System.get_env("DB_HOST", "localhost"),
   pool: Ecto.Adapters.SQL.Sandbox
