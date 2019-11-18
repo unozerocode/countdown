@@ -2,6 +2,10 @@
 
 [![GitHubCI](https://github.com/unozerocode/countdown/workflows/Elixir%20CI/badge.svg)](https://github.com/unozerocode/countdown/actions?query=workflow%3A%22Elixir+CI%22)
 
+[Heroku deployment](https://protected-sierra-57794.herokuapp.com/)
+
+[GCP deployment](http://34.69.89.230:4000/)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
